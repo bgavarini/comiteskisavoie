@@ -1,0 +1,4 @@
+[submodule "bgavarini/comiteskisavoie"]
+	path = bgavarini/comiteskisavoie
+	url = git clone --recurse-submodules --branch master git@github.com:bgavarini/comiteskisavoie.git
+	branch = master
